@@ -1,16 +1,31 @@
-### Hi there 👋
+## It's a rainbow! It's a firework! Wait no it's just Kizuru...
 
-<!--
-**Kizuru/Kizuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Wait but who's this Kizuru guy?
 
-Here are some ideas to get you started:
+- 🍣 A sushi lover
+- 💻 A powerful developper (probably)
+- 📘 A french high school student
+- 🤵🏻 A guy. (Gay guy to be precise)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What kind of experience does he have?
+
+- 🌱 Around 4 years of NodeJS, some experience with TypeScript as well.
+- ✨ Some experience with Java
+- 🎈 A very tiny bit of python
+- 🔨 Learning Rust, Go and C++
+- 💾 Experience with linux (Only Arch/Debian-based distros)
+- 🐳 Basic docker (+compose) experience
+- ⚡ Database knowledge (NoSQL: MongoDB, RethinkDB | SQL: MySQL, MariaDB)
+
+#### What's on his TODO list?
+
+- 👥 Acquire experience with other people (learn to work in a team)
+- 💻 Learn more programming languages and master the ones I like
+- 💼 Get into a good post-BAC school
+- 🛠 Learn Kubernetes and other useful tools
+
+#### If you want to get in touch
+
+- Pro Email: contact@kizuru.dev
+- Discord: Kizuru#5720
+- Snapchat: kuronobakaw
