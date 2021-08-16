@@ -1,6 +1,6 @@
-## It's a rainbow! It's a firework! Wait no it's just Kizuru...
+## It's a rainbow! It's a firework! Wait no it's just Remi...
 
-#### Wait but who's this Kizuru guy?
+#### Wait but who's this Remi guy?
 
 - 🍣 A sushi lover
 - 💻 A powerful developper (probably)
