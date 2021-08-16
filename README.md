@@ -27,5 +27,5 @@
 #### If you want to get in touch
 
 - Pro Email: contact@kizuru.fr
-- Discord: Kizuru#5720
+- Discord: Remi#5720
 - Snapchat: kuronobakaw
