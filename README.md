@@ -2,34 +2,36 @@
 
 #### Wait but who's this Remi guy?
 
+- 🥖 A french guy
 - 🍣 A sushi lover
-- 💻 A passionate developper (probably)
-- 📘 A french student (at 42 Lyon)
+- 💻 A passionate developper
+- 📘 A student at 42 Lyon
 - 🤵🏻 A funny guy. (at least, that's what they say)
+- ⛸️ An artistic skating enjoyer
 
 #### What kind of experience does he have?
 
-- 🌱 Around 4 years of NodeJS, some experience with TypeScript as well.
+- 💾 Quite some linux/computer knowledge
+- 🌱 A lot of NodeJS knowledge
+- 🛠 Basic web knowledge (HTML/CSS/JavaScript)
+- 📜 Modern web knowledge (TypeScript, Vue, React, Meteor, WebSockets, ...)
 - ✨ Some experience with Java
-- 🎈 A very tiny bit of python
-- 🔨 Learning Rust, Go and C++
-- 🦊 Learning C at school as well
-- 💾 Experience with linux (Only Arch/Debian-based distros)
-- 🐳 Basic docker (+compose) experience
-- ⚡ Database knowledge (NoSQL: MongoDB, RethinkDB | SQL: MySQL, MariaDB)
+- 🎈 A bit of Python 3
+- 🔨 Some C++ and quite some C as well
+- 🐳 Docker + Compose experience
+- ⚡ Database knowledge (Mongo, Rethink, Postgres, ...)
 
 #### What's on his TODO list?
 
-- 👥 Acquire experience with other people (learn to work in a team) [✔️]
-- 💻 Learn more programming languages and master the ones I like [🚧]
-- 💼 Get into a good post-BAC school [✔️]
-- 🛠 Learn Kubernetes and other useful tools [🚧]
+- 👨‍🏫 Try out Astro, NextJS 13, Nuxt, and a bunch of other things
+- 📖 Learn Rust and try out languages like Haskell
+- 👥 Acquire real-world enterprise knowledge (Work methods, CI/CD, Deployments, Dev Environments, ...)
+- 🕸️ Learn more about Kubernetes, Terraform, ElasticSearch and other useful tools
 
 #### If you want to get in touch
 
-- Student Email: tjolivea@student.42lyon.fr
+- Email: remi.42lyon@gmail.com
 - Discord: Remi#5720
-- Snapchat: kuronobakaw
 
 <br/>
 <p align="center">
