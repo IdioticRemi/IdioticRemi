@@ -33,9 +33,7 @@
 - Email: remi.42lyon@gmail.com
 - Discord: Remi#5720
 
-<!--
 <br/>
 <p align="center">
-  <img src="https://badge42.vercel.app/api/v2/cl32xb6ly00110al6st7n8c7y/stats?cursusId=21&coalitionId=50" alt="tjolivea's 42 stats" />
-</p> 
--->
+  <img src="https://badge42.vercel.app/api/v2/cl32xb6ly00110al6st7n8c7y/stats?cursusId=21&coalitionId=undefined" alt="42 School stats" />
+</p>
