@@ -17,21 +17,23 @@
 - 📜 Modern web knowledge (TypeScript, Vue, React, Meteor, WebSockets, ...)
 - ✨ Some experience with Java
 - 🎈 A bit of Python 3
-- 🔨 Some C++ and quite some C as well
-- 🐳 Docker + Compose experience
-- ⚡ Database knowledge (Mongo, Rethink, Postgres, ...)
+- 🔨 Some C and C++ thanks to school
+- 🎷 A fair bit of experience with C#
+- 🐳 Docker & Docker-compose
+- ⚡ Database knowledge (Mongo, Rethink, Postgres, MSSQL, ...)
+- 👥 Real-world enterprise knowledge (Agile/Scrum, CI/CD, Deployments, Environments, Secrets, ...)
 
 #### What's on his TODO list?
 
-- 👨‍🏫 Try out Astro, NextJS 13, Nuxt, and a bunch of other things
+- 👨‍🏫 Try out some cool libraries, frameworks
+- ⭐ Join or start a useful project I can be passionate about
 - 📖 Learn Rust and try out languages like Haskell
-- 👥 Acquire real-world enterprise knowledge (Work methods, CI/CD, Deployments, Dev Environments, ...)
 - 🕸️ Learn more about Kubernetes, Terraform, ElasticSearch and other useful tools
 
 #### If you want to get in touch
 
 - Email: remi.42lyon@gmail.com
-- Discord: Remi#5720
+- Discord: @remi.fox
 
 <br/>
 <p align="center">
