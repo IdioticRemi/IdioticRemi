@@ -34,8 +34,3 @@
 
 - Email: remi.42lyon@gmail.com
 - Discord: @remi.fox
-
-<br/>
-<p align="center">
-  <img src="https://badge42.vercel.app/api/v2/cl32xb6ly00110al6st7n8c7y/stats?cursusId=21&coalitionId=undefined" alt="42 School stats" />
-</p>
